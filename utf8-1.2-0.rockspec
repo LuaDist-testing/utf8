@@ -1,9 +1,17 @@
-package = "utf8"
-version = "1.1-0"
+-- This file was automatically generated for the LuaDist project.
 
+package = "utf8"
+version = "1.2-0"
+
+-- LuaDist source
 source = {
-  url = "git://github.com/dannote/luautf8"
+  tag = "1.2-0",
+  url = "git://github.com/LuaDist-testing/utf8.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/dannote/luautf8"
+-- }
 
 description = {
   summary = "A UTF-8 support module for Lua",
